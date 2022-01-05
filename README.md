@@ -1,7 +1,9 @@
 # Color-detection-using-python-ML-project
 Color detection is the process of detecting the name of any color. Simple isn’t it? Well, for humans this is an extremely easy task but for computers, it is not straightforward.
 And This Project done by
-BANOT PAVAN___________________ AM.EN.U4AIE20016
+
+
+BANOTH PAVAN___________________ AM.EN.U4AIE20016
 
 GHANTA ANNESH______ AM.EN.U4AIE20046
 
